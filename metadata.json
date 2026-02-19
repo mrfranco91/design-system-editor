@@ -1,0 +1,5 @@
+{
+  "name": "Lossless CSS Variable Editor",
+  "description": "A surgical, lossless editor for CSS Custom Properties. Upload a file, edit variables visually, and export a byte-perfect patch.",
+  "requestFramePermissions": []
+}
